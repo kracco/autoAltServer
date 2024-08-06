@@ -23,6 +23,8 @@ The script will perform the following actions:
 
 ### Run the script
 You can make a very simple script in .cmd to open your .py based on where you have placed the code, open a now note and write:
+
 `python "...\autoAltServer.py"`
+
 where instead of `...` you should insert the path where "autoAltServer.py" is located.
 After that, rename the .txt into .cmd and you are done!
