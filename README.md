@@ -18,8 +18,8 @@ To run this script, you'll need:
 
 The script will perform the following actions:
 - Launch AltServer.
-- Click the necessary icons to start the AltStore installation.
-- Enter your Apple account credentials (you must edit the .py file adding your email address, email domain and password).
+- Click the necessary icons to start the AltStore installation (based on iPhone, probably if you use another idevice you should take a screenshot of what AltServer recognize as connected to your PC and change the image in "iphone_button.png").
+- Enter your Apple account credentials (you MUST edit the .py file adding your email address, email domain and password).
 
 ### Run the script
 You can make a very simple script in .cmd to open your .py based on where you have placed the code, open a now note and write:
