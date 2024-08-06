@@ -1,4 +1,4 @@
-This project provides a Python script to automate the opening of AltServer and the entry of your Apple account credentials. The goal is to simplify the process of installing and managing AltStore on an iOS device.
+This project (for lazy peopel) provides a Python script to automate the opening of AltServer and the entry of your Apple account credentials. The goal is to simplify the process of installing and managing AltStore on an iOS device.
 
 **Important Note:** This script is intended for demonstration purposes and may not be perfect for all users. It was created by a programming novice and might require adjustments to fit different system configurations. Any tips are appreciated!
 
