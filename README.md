@@ -20,3 +20,9 @@ The script will perform the following actions:
 - Launch AltServer.
 - Click the necessary icons to start the AltStore installation.
 - Enter your Apple account credentials (you must edit the .py file adding your email address, email domain and password).
+
+### Run the script
+You can make a very simple script in .cmd to open your .py based on where you have placed the code, open a now note and write:
+`python "...\autoAltServer.py"`
+where instead of `...` you should insert the path where "autoAltServer.py" is located.
+After that, rename the .txt into .cmd and you are done!
