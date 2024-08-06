@@ -19,4 +19,4 @@ To run this script, you'll need:
 The script will perform the following actions:
 - Launch AltServer.
 - Click the necessary icons to start the AltStore installation.
-- - Enter your Apple account credentials (you must edit the .py file adding your email address, email domain and password.
+- Enter your Apple account credentials (you must edit the .py file adding your email address, email domain and password).
